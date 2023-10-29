@@ -1,0 +1,41 @@
+História de Usuário 1: Melhoria de Relatórios de Teste
+
+Título: Aprimoramento dos Relatórios de Teste
+
+Descrição: Como gerente de QA, desejo que os relatórios de teste sejam mais abrangentes e visualmente atraentes, a fim de facilitar a compreensão dos 
+resultados dos testes. Isso ajudará a equipe de desenvolvimento a identificar e corrigir problemas de forma mais eficaz.
+
+Critérios de Aceitação:
+
+Os relatórios de teste devem incluir estatísticas resumidas, como número de casos de teste executados, aprovados e falhados.
+Os relatórios devem ser gerados automaticamente após a execução dos testes e estar disponíveis em um formato acessível para todos os membros da equipe.
+Os relatórios devem incluir gráficos ou gráficos de barras que representem visualmente o progresso dos testes e as tendências de qualidade.
+
+
+História de Usuário 2: Integração com Ferramentas de Gerenciamento de Tarefas
+
+Título: Integração com Ferramentas de Gerenciamento de Tarefas
+
+Descrição: Como membro da equipe de QA, desejo que os resultados dos testes sejam automaticamente registrados em nossa ferramenta de gerenciamento de 
+tarefas (por exemplo, Jira) sempre que um teste falhar. Isso permitirá uma comunicação mais eficaz entre QA e desenvolvimento e um acompanhamento mais 
+fácil de problemas identificados.
+
+Critérios de Aceitação:
+
+Quando um teste falhar, um problema correspondente deve ser automaticamente criado na ferramenta de gerenciamento de tarefas.
+O problema deve conter informações relevantes, como descrição da falha, passos para reproduzir o problema e evidências relacionadas aos testes.
+Deve haver uma integração contínua e em tempo real entre a ferramenta de QA e a ferramenta de gerenciamento de tarefas.
+
+
+História de Usuário 3: Automação de Testes de Regressão
+
+Título: Automação de Testes de Regressão
+
+Descrição: Como membro da equipe de QA, desejo que os testes de regressão sejam automatizados para reduzir o tempo gasto na execução manual de testes 
+repetitivos. Isso permitirá que a equipe se concentre em testes mais críticos e em atividades de alta prioridade.
+
+Critérios de Aceitação:
+
+Os casos de teste de regressão mais frequentemente executados devem ser identificados e automatizados.
+Os testes automatizados devem ser executados regularmente como parte de um processo de integração contínua.
+A automação dos testes de regressão deve fornecer relatórios detalhados sobre os resultados e qualquer regressão identificada.
